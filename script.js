@@ -4,4 +4,9 @@ const computerPlay = function(){
     return computerChoice;
 };
 
-computerPlay();
+const playerSelection = function(){
+    prompt("Choose: Rock, Paper, or Scissors!")
+    if 
+}
+
+// picking up on part 4 of TOP steps
